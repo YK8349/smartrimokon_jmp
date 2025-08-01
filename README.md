@@ -1,1 +1,2 @@
 # smartrimokon_jmp
+スマートリモコンのipが外と中で違うから
